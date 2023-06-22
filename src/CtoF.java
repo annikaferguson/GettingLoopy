@@ -21,6 +21,6 @@ public class CtoF {
                 System.out.println("\nYou said the temperature in Celsius was: " + trash);
                 System.out.println("You have to enter a valid numeric temperature!");
             }
-        }
+        } while (!done);
     }
 }
