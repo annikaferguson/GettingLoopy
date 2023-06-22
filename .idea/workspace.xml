@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9898966e-d628-4275-8480-ebd532065fa8" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/src/CtoF.java" afterDir="false" />
+    <list default="true" id="9898966e-d628-4275-8480-ebd532065fa8" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/src/CtoF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CtoF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,12 +107,19 @@
       <option name="project" value="LOCAL" />
       <updated>1687391401898</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="initial">
+      <created>1687391808968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687391808968</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>
